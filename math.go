@@ -8,3 +8,7 @@ func Add(numbers ...int) int {
 
 	return sum
 }
+
+func Sub(i, j int) int {
+	return i - j
+}
